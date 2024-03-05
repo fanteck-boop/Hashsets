@@ -1,0 +1,7 @@
+C:\Users\trist\source\repos\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\CS_Using_HashSet.exe.config
+C:\Users\trist\source\repos\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\CS_Using_HashSet.exe
+C:\Users\trist\source\repos\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\CS_Using_HashSet.pdb
+C:\Users\trist\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\CS_Using_HashSet.csproj.AssemblyReference.cache
+C:\Users\trist\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\CS_Using_HashSet.csproj.CoreCompileInputs.cache
+C:\Users\trist\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\CS_Using_HashSet.exe
+C:\Users\trist\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\CS_Using_HashSet.pdb
